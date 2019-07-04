@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+div{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#mainT {
+	width: 170px;
+	text-align: center;
+}
+ul li{
+	list-style-type: none;
+}
